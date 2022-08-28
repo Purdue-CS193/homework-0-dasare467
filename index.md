@@ -4,8 +4,13 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### The Name is Dwayne,
-### Dwayne Asare
+# Dwayne's First CS193 Homework
+
+## Thing's I love about CS193
+- It's taught by students just like me (so there is some relatability)
+- My instructors Rohan and Elijah are chill guys that one day I'll have the courage to talk to 
+- The Syllabus seems relevant as someone who wants to be a Software Engineer in the future
+- The Quizzes are easy!
 
 
 ### Markdown (hi)
